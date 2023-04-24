@@ -18,6 +18,6 @@
 	--medavatarradius: 4px !important; /*default: 4px*/
 	--largeavatarradius: 5px !important; /*default: 5px*/
 	/*Custom BG - enter the link to the image you want to use as the app background, keep quotes*/
-	--bg-image: url('here') center/cover no-repeat !important;
+	--bg-image: url('https://c4.wallpaperflare.com/wallpaper/877/93/106/aero-green-and-light-blue-hd-wallpaper-wallpaper-thumb.jpg') center/cover no-repeat !important;
 	/*------*/
 }
